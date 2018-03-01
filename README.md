@@ -1,7 +1,9 @@
 README
 ===========================
-该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
-
+我会重新用新版格式 写readme文件
+当前主要工作是 完善文档 细化内容 让collaborator通过图片 gif 很容易了解这个项目是什么
+先完善中文版本
+然后写对应的英文版本
 ****
 	
 |Author|果冻虾仁|
