@@ -2,3 +2,15 @@
 尽量多的日志文档   
 SQL运行的开始，结束。
 异常输出  excepiton  error等
+
+
+
+readme 需要写好一些
+http://www.techug.com/post/how-to-get-hundreds-of-stars-on-your-github-project.html
+用gif 动态图片
+
+多用图片 解释
+
+有趣和有用是我个人参与的动力。
+
+简单  简单 再简单  功能单一 简单 明白
