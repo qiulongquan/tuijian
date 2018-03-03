@@ -32,10 +32,10 @@ README
 ```
 [foryou123]:https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG 
 
-(https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG "description1")
-https://github.com/tuijian/tuijian/blob/master/ready_pic/pic2.JPG "description2"
-https://github.com/tuijian/tuijian/blob/master/ready_pic/pic3.JPG "description3"
-https://github.com/tuijian/tuijian/blob/master/ready_pic/pic4.JPG "description3"
+![description1](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG "description1")
+![description2](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic2.JPG "description2")
+![description3](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic3.JPG "description3")
+![description4](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic4.JPG "description4")
 
 ****
 ## 目录
