@@ -22,6 +22,13 @@ README
 * [就这么简单，我会继续做一个gif简单说明这个应用](#就这么简单，我会继续做一个gif简单说明这个应用)
 ****
 ## 描述 Description
+
+![description1](tuijian/ready_pic/pic1.JPG "description1")
+![description2](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic2.JPG "description2")
+![description3](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic3.JPG "description3")
+![description4](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic4.JPG "description4")
+
+
 |#|语法|效果|
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG "description1")
@@ -32,10 +39,7 @@ README
 ```
 [foryou123]:https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG 
 
-![description1](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG "description1")
-![description2](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic2.JPG "description2")
-![description3](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic3.JPG "description3")
-![description4](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic4.JPG "description4")
+
 
 ****
 ## 目录
