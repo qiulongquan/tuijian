@@ -25,17 +25,17 @@ README
 |#|语法|效果|
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG "description1")
-|2|`![][foryou]`|![][foryou]
+|2|`![][foryou123]`|![][foryou123]
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
 >在文末有foryou的定义：
 ```
-[foryou]:https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG 
+[foryou123]:https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG 
 
-[description1](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG "description1")
-[description2](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic2.JPG "description2")
-[description3](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic3.JPG "description3")
-[description4](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic4.JPG "description3")
+(https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG "description1")
+https://github.com/tuijian/tuijian/blob/master/ready_pic/pic2.JPG "description2"
+https://github.com/tuijian/tuijian/blob/master/ready_pic/pic3.JPG "description3"
+https://github.com/tuijian/tuijian/blob/master/ready_pic/pic4.JPG "description3"
 
 ****
 ## 目录
