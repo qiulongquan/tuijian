@@ -24,7 +24,7 @@ README
 ## 描述 Description
 |#|语法|效果|
 |---|---|----
-|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](https://github.com/tuijian/tuijian/ready_pic/pic1.JPG "description1")
+|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic1.JPG "description1")
 |2|`![][foryou]`|![][foryou]
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
