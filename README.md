@@ -20,6 +20,7 @@ README
 就会更加精准内容推荐出来。
 
 * [就这么简单，我会继续完善说明图片，简单说明这个应用](#description描述)
+* [Step](#step)
 * [Install](#install)
 * [CLI](#cli)
 * [Usage](#usage)
@@ -36,6 +37,22 @@ README
 
 ![description6](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic6.JPG "description6")
 
+****
+## Step
+* モジュール　機能分割
+	マイン機能洗い出し
+
+* Web Crawler realization ウェブクローラー
+	网络小爬虫 找到合适的内容然后自动打标签
+
+* DB設計　導入
+	设计一个数据库不要太复杂 存放网站标签 稳定运行就可以
+
+* machine learning algorithm realization アルゴリズム
+	这个最难 我还不知道用那个算法实现
+
+* result display
+	结果输出   一开始不要界面  算法出来的理论值和实际值能够输出就可以。
 
 ****
 ## Install
