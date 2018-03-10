@@ -39,19 +39,19 @@ README
 
 ****
 ## Step
-* モジュール　機能分割
+* モジュール　機能分割  
 	マイン機能洗い出し
 
-* Web Crawler realization ウェブクローラー
+* Web Crawler realization ウェブクローラー  
 	网络小爬虫 找到合适的内容然后自动打标签
 
-* DB設計　導入
+* DB設計　導入  
 	设计一个数据库不要太复杂 存放网站标签 稳定运行就可以
 
-* machine learning algorithm realization アルゴリズム
+* machine learning algorithm realization アルゴリズム  
 	这个最难 我还不知道用那个算法实现
 
-* result display
+* result display   
 	结果输出   一开始不要界面  算法出来的理论值和实际值能够输出就可以。
 
 ****
