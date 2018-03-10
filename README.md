@@ -38,11 +38,11 @@ README
 ![description6](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic6.JPG "description6")
 
 ****
-```diff
-## - Step and Current Question
-```
+## Step and Current Question
 * モジュール　機能分割  
-	マイン機能洗い出し
+	```diff
+	- マイン機能洗い出し（doing at the moment）
+	```
 
 * Web Crawler realization ウェブクローラー  
 	网络小爬虫 找到合适的内容然后自动打标签
@@ -56,6 +56,7 @@ README
 * result display   
 	结果输出   一开始不要界面  算法出来的理论值和实际值能够输出就可以。
 
+	上面是当前开发中遇到的问题，如果你有好的解决问题方法，请新建一个branch，并提供你的方案。我们会把有你放入贡献者名单中。
 ****
 ## Install
 
