@@ -38,7 +38,9 @@ README
 ![description6](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic6.JPG "description6")
 
 ****
-## Step
+```diff
+- ## Step and Current Question
+```
 * モジュール　機能分割  
 	マイン機能洗い出し
 
