@@ -39,7 +39,7 @@ README
 
 ****
 ```diff
-- ## Step and Current Question
+## - Step and Current Question
 ```
 * モジュール　機能分割  
 	マイン機能洗い出し
