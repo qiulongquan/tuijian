@@ -40,9 +40,9 @@ README
 ****
 ## Step and Current Question
 * モジュール　機能分割  
-	```diff
-	- マイン機能洗い出し（doing at the moment）
-	```
+```diff
+- マイン機能洗い出し（doing at the moment）
+```
 
 * Web Crawler realization ウェブクローラー  
 	网络小爬虫 找到合适的内容然后自动打标签
