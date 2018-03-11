@@ -1,7 +1,7 @@
 README
 ===========================
 感谢你可以看这个文档，不良费时间现在开始介绍。最近要做的事情以及文档的查看方法写在这里。
-当前正在做的工作在[Step and Current Question](#step and Current Question)有记录
+当前正在做的工作在[Step_and_Current_Question](#step_and_Current_Question)有记录
 如果你是第一次来不了解这个项目，请查看[就这么简单，我会继续完善说明图片，简单说明这个应用](#description描述)
 我是中国人，英文如果有问题请帮我修改，谢谢。
 ****
@@ -20,7 +20,7 @@ README
 就会更加精准内容推荐出来。
 
 * [就这么简单，我会继续完善说明图片，简单说明这个应用](#description描述)
-* [Step and Current Question](#step and Current Question)
+* [Step_and_Current_Question](#step_and_Current_Question)
 * [Install](#install)
 * [CLI](#cli)
 * [Usage](#usage)
@@ -38,7 +38,7 @@ README
 ![description6](https://github.com/tuijian/tuijian/blob/master/ready_pic/pic6.JPG "description6")
 
 ****
-## Step and Current Question
+## Step_and_Current_Question
 * モジュール　機能分割  
 ```diff
 + マイン機能洗い出し（doing at the moment）   
