@@ -1,15 +1,15 @@
 README
 ===========================
 感谢你可以看这个文档，不良费时间现在开始介绍。最近要做的事情以及文档的查看方法写在这里。
-当前正在做的工作在[Step_and_Current_Question](#step_and_current_question)有记录,如果你打算加入我们可以从当前正在解决的问题开始入手。
-如果你是第一次来不了解这个项目，请查看[就这么简单，我会继续完善说明图片，简单说明这个应用](#description描述)
-我是中国人，英文如果有问题请帮我修改，谢谢。
+当前正在做的工作在[Step_and_Current_Question](#step_and_current_question)有记录,如果你打算加入我们可以从当前正在解决的问题开始入手。  
+如果你是第一次来不了解这个项目，请查看[就这么简单，我会继续完善说明图片，简单说明这个应用](#description描述)  
+我们是中国人，英文如果有问题请帮我修改，谢谢。  
 
-thanks for your see this document,explain about to document now.the work being done at the moment and check document out way is writing here. 
-the work at the moment being done is recorded in [Step_and_Current_Question](#step_and_current_question),if would you like join us,you can begin with the problems that being solved at the moment.
-if your see the document first and disunderstand the project.plese check out [description](#description描述).
+thanks for your see this document,explain about to document now.the work being done at the moment and check document out way is writing here.   
+the work at the moment being done is recorded in [Step_and_Current_Question](#step_and_current_question),if would you like join us,you can begin with the problems that being solved at the moment.   
+if your see the document first and disunderstand the project.plese check out [description](#description描述).  
 
-we are chinese,if english have incorrected would your please fix it. thank your.
+we are chinese,if english have incorrected would your please fix it. thank your.   
 ****
 	
 |Author|qiulongquan|
