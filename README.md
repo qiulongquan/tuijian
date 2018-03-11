@@ -1,9 +1,9 @@
 README
 ===========================
-我会重新用新版格式 写readme文件
-当前主要工作是 完善文档 细化内容 让collaborator通过图片 gif 很容易了解这个项目是什么
-先完善中文版本
-然后写对应的英文版本
+感谢你可以看这个文档，不良费时间现在开始介绍。最近要做的事情以及文档的查看方法写在这里。
+当前正在做的工作在[Step and Current Question](#step and Current Question)有记录
+如果你是第一次来不了解这个项目，请查看[就这么简单，我会继续完善说明图片，简单说明这个应用](#description描述)
+我是中国人，英文如果有问题请帮我修改，谢谢。
 ****
 	
 |Author|qiulongquan|
@@ -20,7 +20,7 @@ README
 就会更加精准内容推荐出来。
 
 * [就这么简单，我会继续完善说明图片，简单说明这个应用](#description描述)
-* [Step](#step)
+* [Step and Current Question](#step and Current Question)
 * [Install](#install)
 * [CLI](#cli)
 * [Usage](#usage)
