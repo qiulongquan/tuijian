@@ -53,13 +53,12 @@ click you like contents check it out,not like then click "next" ,system will cha
 + マイン機能洗い出し(main function identify)（doing at the moment）   
 * 主要机能包括(main function include)
 	* 网络爬虫抓取信息，自动打标签。   
-	
 	(web crawler capture information,automatic get website labeling)
 	* 设计数据库采用mysql，要稳定 维护简单。   
-	designing database usage MYSQL,stabilization and simple maintenance
+	(designing database usage MYSQL,stabilization and simple maintenance)
 	* 参考成熟的机器学习算法加以利用。尽可能少的次数展现出想要的结果。   
-	
-	reference to mature machine learning algorithm and usage,   as much as possible little click then appear hope result
+	(reference to mature machine learning algorithm and usage,
+	as much as possible little click then appear hope result)
 
 ```
 
