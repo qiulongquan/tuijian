@@ -24,10 +24,10 @@ we are chinese,if english have incorrected would your please fix it. thank your.
 	* 第一次使用会打开一个“内容分类”选项，你可以选择自己感兴趣的内容。然后系统根据你选择的内容从数据库中挑选出其他同类客户也喜欢的内容。然后展现出来。
 你喜欢的内容就点击进去浏览，没有喜欢的就选择“换一批”，系统会把下一批内容推荐给你。机器学习会根据你多次点击来学习针对单个客户喜欢的内容。下次打开页面
 就会更加精准内容推荐出来。
-* first time use will appear a "content category" option,you can select yourself interest content.then system will by selected contents pick out from database contents that other like user also interested in.then show it.   
+	* first time use will appear a "content category" option,you can select yourself interest content.then system will by selected contents pick out from database contents that other like user also interested in.then show it.   
 click you like contents check it out,not like then click "next" ,system will change new recommend content for you . machine learning will by user multipic clicks learn that individual customers interest in contents . next time open the APP more accurate contents will be recommend.   
 
-* [就这么简单，我会继续完善说明图片，简单说明这个应用](#description描述)(so simple,we will be continue to improve the description picture,simple explain the APP)
+* [就这么简单，我会继续完善说明图片，简单说明这个应用](#description描述)   (so simple,we will be continue to improve the description picture,simple explain the APP)
 * [Step_and_Current_Question](#step_and_current_question)
 * [Install](#install)
 * [CLI](#cli)
@@ -51,9 +51,9 @@ click you like contents check it out,not like then click "next" ,system will cha
 ```diff
 + マイン機能洗い出し(main function identify)（doing at the moment）   
 * 主要机能包括(main function include)
-	* 网络爬虫抓取信息，自动打标签。(web crawler capture information,automatic get website labeling)
-	* 设计数据库采用mysql，要稳定 维护简单。(designing database usage MYSQL,stabilization and simple maintenance)
-	* 参考成熟的机器学习算法加以利用。尽可能少的次数展现出想要的结果。(reference to mature machine learning algorithm and usage , as much as possible little click then appear hope result)
+	* 网络爬虫抓取信息，自动打标签。   (web crawler capture information,automatic get website labeling)
+	* 设计数据库采用mysql，要稳定 维护简单。   (designing database usage MYSQL,stabilization and simple maintenance)
+	* 参考成熟的机器学习算法加以利用。尽可能少的次数展现出想要的结果。   (reference to mature machine learning algorithm and usage , as much as possible little click then appear hope result)
 
 ```
 
