@@ -48,9 +48,9 @@ click you like contents check it out,not like then click "next" ,system will cha
 
 ****
 ## Step_and_Current_Question
-* モジュール　機能分割  
+* 模块机能分割  
 ```diff
-+ マイン機能洗い出し(main function identify)（doing at the moment）   
++ 主要机能拆分(main function identify)（doing at the moment）   
 * 主要机能包括(main function include)
 	* 网络爬虫抓取信息，自动打标签。   
 	(web crawler capture information,automatic get website labeling)
